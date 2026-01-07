@@ -53,7 +53,4 @@ The system has **3 HTML pages**:
 ## Challenges and Learning
 - Understanding how to structure the database with proper **primary and foreign keys**  
 - Learning to create **interactive forms** with validation using JavaScript  
-- Integrating **frontend forms** with sample backend data for demonstration  
-
-## Screenshots
-*(Screenshots will be added after opening each HTML page in a browser.)*
+- Integrating **frontend forms** with sample backend data for demonstration
